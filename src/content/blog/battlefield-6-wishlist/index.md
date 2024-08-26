@@ -1,6 +1,6 @@
 ---
 title: "Battlefield 6 Wishlist"
-description: "What I personally would like to see from the next Battlefield title after playing since Bad Company 2"
+description: "What I personally would like to see from the next Battlefield title"
 date: "May 12 2020"
 ---
 What I personally would like to see from the next Battlefield title after playing since Bad Company 2

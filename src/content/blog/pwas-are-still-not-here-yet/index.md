@@ -1,6 +1,6 @@
 ---
 title: "PWAs are still not here yet"
-description: "It's fascinating what can be done with web technology these days. But not anything"
+description: "It's fascinating what can be done with web tech these days. But not anything"
 date: "Jun 3 2020"
 ---
 It's fascinating what can be done with web technology these days. But not anything

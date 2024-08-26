@@ -1,6 +1,6 @@
 ---
 title: "Polestar 2 Impressions"
-description: "I went to a roadshow event at the Munich airport to take a closer look at the Polestar 2"
+description: "I went to a roadshow event to take a closer look at the Polestar 2"
 date: "Sep 1 2019"
 ---
 I went to a roadshow event at the Munich airport to take a closer look at the Polestar 2 and asked questions for details that do not show up on the official website
