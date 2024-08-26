@@ -3,6 +3,9 @@ title: "Clean Windows 10 Install"
 description: "Installing Windows 10 in the most clean way possible without breaking stuff"
 date: "Aug 25 2024"
 ---
+Installing Windows 10 in the most clean way possible without breaking stuff
+
+---
 
 ![Thinkpad-X280-Windows-10-install](./Thinkpad-X280-Windows-10-install.jpg)
 

@@ -3,6 +3,9 @@ title: "iOS Essentials"
 description: "I curated the very best apps for my usage profile - this time iOS"
 date: "Aug 1 2021"
 ---
+I curated the very best apps for my usage profile - this time iOS
+
+---
 
 ![](./20210801_154707299_iOS.jpg)
 

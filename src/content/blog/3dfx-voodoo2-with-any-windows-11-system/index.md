@@ -4,6 +4,10 @@ description: "A bright future for the Voodoo2, even 23 years later"
 date: "Aug 16 2021"
 ---
 
+A bright future for the Voodoo2, even 23 years later
+
+---
+
 ![](./thumbnail.jpg)
 
 ## Questionable Motivation
