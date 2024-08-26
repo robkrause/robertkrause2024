@@ -1,6 +1,6 @@
 ---
 import Container from "@components/Container.astro";
-import { SITE } from "@consts";
+import Link from "@components/Link.astro";
 import BackToTop from "@components/BackToTop.astro";
 ---
 
@@ -13,7 +13,13 @@ import BackToTop from "@components/BackToTop.astro";
     </div>
     <div class="flex justify-between items-center">
       <div>
-        &copy; 2024 {`|`} {SITE.NAME}
+        <Link href="/imprint">
+          Imprint
+        </Link>
+        {`|`}
+        <Link href="/data-privacy">
+          Data Privacy
+        </Link>
       </div>
       <div class="flex flex-wrap gap-1 items-center">
         <button

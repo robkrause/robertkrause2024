@@ -30,6 +30,16 @@ export const PROJECTS: Metadata = {
     "A collection of my projects, with links to repositories and demos.",
 };
 
+export const IMPRINT: Metadata = {
+  TITLE: "Imprint",
+  DESCRIPTION: "Imprint of robertkrau.se",
+};
+
+export const DATA_PRIVACY: Metadata = {
+  TITLE: "Data privacy",
+  DESCRIPTION: "Data privacy of robertkrau.se",
+};
+
 export const SOCIALS: Socials = [
   {
     NAME: "twitter-x",
