@@ -54,6 +54,7 @@ After installation, the start menu really looks empty compared to a normal insta
             <ExcludeApp ID="OneDrive" />
         </Product>
     </Add>
+    <Update Enabled="FALSE"/>
 </Configuration>
 ```
 
