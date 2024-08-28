@@ -5,7 +5,6 @@ export const SITE: Site = {
   EMAIL: "mail@robertkrau.se",
   NUM_POSTS_ON_HOMEPAGE: 3,
   NUM_WORKS_ON_HOMEPAGE: 2,
-  NUM_PROJECTS_ON_HOMEPAGE: 3,
 };
 
 export const HOME: Metadata = {
@@ -22,12 +21,6 @@ export const BLOG: Metadata = {
 export const WORK: Metadata = {
   TITLE: "Work",
   DESCRIPTION: "Proud of my work",
-};
-
-export const PROJECTS: Metadata = {
-  TITLE: "Projects",
-  DESCRIPTION:
-    "A collection of my projects, with links to repositories and demos.",
 };
 
 export const IMPRINT: Metadata = {
