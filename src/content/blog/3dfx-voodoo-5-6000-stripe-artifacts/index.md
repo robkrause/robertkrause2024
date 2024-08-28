@@ -1,6 +1,6 @@
 ---
 title: "3dfx Voodoo 5 6000 stripe artifacts"
-description: "Must one accept a moderate annoyance? Studying the legendary 3dfx Voodoo 5 6000 and it's quirks"
+description: "Accept a moderate annoyance? Studying the legendary 3dfx Voodoo 5 6000"
 date: "Feb 10 2017"
 ---
 Must one accept a moderate annoyance or is there help? Studying the legendary 3dfx Voodoo 5 6000 and it's quirks
