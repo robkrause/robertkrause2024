@@ -44,3 +44,11 @@ PocketCasts – I have bought this app on every platform to sync my podcast prog
 Pulsar or Phonograph – I hate the Google Play Music App with it's permanent annoyance of asking to subscribe. I also don't understand why the have to show the album covers as round icons. These two offer a great alternative.
 
 Simplenote – This app is not always installed on my phone, but by including it in this list I have the opportunity to express my love for this tool. A clean notes app that comes with support for all platforms and even has installable clients on Windows and Mac. Beautifully composed lists can be shared for collaborative composition and than published as a minimalist website via link.
+
+## The Games
+
+Monument Valley – Inspired by the idea of [impossible objects](https://en.wikipedia.org/wiki/Impossible_object) this is without doubt one of the most visually stunning and unique mobile games. I have not played the DLC “Forgotten Shores” nor the successor, but if they are only remotely as good as the first game, don’t hesitate to buy them too.
+
+Superbrother Sword & Sworcery – Outstanding art- and sounddesign. The soundtrack alone is so good I sometimes listen to it on its own. The gameplay is unique and perfect for touch devices. Called “Stelzenmann” (stilt walker) by my girlfriend.
+
+Minecraft – Once called Pocket Edition this version of Minecraft is adjusted to play well with a touchscreen. Enemys are reduced in number and blocks can be reached from further away. Crossplay between all versions of Minecraft except the Java-Version is supported. Constant Updates and practically unlimited possibilities make this a must have.

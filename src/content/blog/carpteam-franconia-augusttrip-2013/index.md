@@ -1,7 +1,7 @@
 ---
 title: "Carpteam Franconia – Augusttrip 2013"
 description: "A video of one week carp fishing with the Carpteam Franconia in Germany"
-date: "Nov 9 2017"
+date: "Nov 9 2016"
 ---
 A video of one week carp fishing with the Carpteam Franconia in Germany. Some nice catches included
 
