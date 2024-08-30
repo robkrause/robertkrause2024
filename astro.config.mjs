@@ -1,9 +1,16 @@
+import tailwind from "@astrojs/tailwind";
 import { defineConfig } from "astro/config";
+
 import mdx from "@astrojs/mdx";
 import sitemap from "@astrojs/sitemap";
-import tailwind from "@astrojs/tailwind";
 
+// https://astro.build/config
 export default defineConfig({
-  site: "https://robertkrau.se",
-  integrations: [mdx(), sitemap(), tailwind()],
+  site: "https://astro-micro.vercel.app",
+  integrations: [tailwind(), sitemap(), mdx()],
+  markdown: {
+    shikiConfig: {
+      theme: "css-variables",
+    },
+  },
 });
