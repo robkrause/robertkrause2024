@@ -11,7 +11,7 @@ It's fascinating what can be done with web technology these days. But not anythi
 
 ## The Rise of JavaScript
 
-I believe that one of the most important criteria when it comes to chosing a programming language is the ease of use. JavaScript historically was not intended for complex implementations. In my opinion that is the reason why the barrier of entry is still so low and one can define her/his learning curve themself.
+I believe that one of the most important criteria when it comes to choosing a programming language is the ease of use. JavaScript historically was not intended for complex implementations. In my opinion that is the reason why the barrier of entry is still so low and one can define her/his learning curve themself.
 
 But JavaScript didn’t stay that way. It grew a community than constantly pushes the language and now even is used as an abstraction layers to create [native Windows and macOS Apps]()
 

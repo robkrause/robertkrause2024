@@ -9,7 +9,7 @@ I curated the very best apps for my usage profile - this time iOS
 
 ![](./20210801_154707299_iOS.jpg)
 
-(Updated for 2024)
+*Note: Updated for 2024*
 
 Made a [similar list for Android](https://robertkrau.se/blog/android-essentials/) a few years back and while I don't plan to leave iOS I still like to share my favorite apps. When I don't specificaly name e.g. a Mail App this means I use the included App from Apple.
 
