@@ -1,7 +1,7 @@
 ---
 title: "Disruption"
 description: "What I got right, wrong, and some guesses"
-date: "Jan 26 2026"
+date: "Jan 26 2025"
 ---
 What I realized early on, but also what I got wrong and a look into the future as well
 
