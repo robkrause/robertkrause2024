@@ -7,7 +7,6 @@ What I realized early on, but also what I got wrong and a look into the future a
 
 ---
 
-## Main System
 Recently I read "The Internet of Money" that describes the different stages of disruption. It gave me even more confidence that I'm quite good at recognizing disruption early on and why I prefer investing into stocks compared to other investment strategies.
 
 ## What I got right
