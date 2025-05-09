@@ -1,5 +1,5 @@
-Forked from [astro-nano](https://github.com/markhorn-dev/astro-nano)
-
+Forked from [astro-nano](https://github.com/markhorn-dev/astro-nano) and fused with [astro-micro]
+(https://github.com/trevortylerlee/astro-micro)
 ## 💻 Commands
 
 All commands are run from the root of the project, from a terminal:
