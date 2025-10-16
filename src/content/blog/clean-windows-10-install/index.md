@@ -37,7 +37,7 @@ After installation, the start menu really looks empty compared to a normal insta
 ```xml
 <Configuration>
     <Add OfficeClientEdition="64">
-        <Product ID="O365ProPlusRetail">
+        <Product ID="O365HomePremRetail">
             <Language ID="de-de" />
             <ExcludeApp ID="Access" />
             <ExcludeApp ID="Groove" />
@@ -49,12 +49,10 @@ After installation, the start menu really looks empty compared to a normal insta
             <ExcludeApp ID="Publisher" />
             <ExcludeApp ID="SharePointDesigner" />
             <ExcludeApp ID="Visio" />
+	        <ExcludeApp ID="Outlook" />
             <ExcludeApp ID="Teams" />
-            <ExcludeApp ID="Outlook" />
-            <ExcludeApp ID="OneDrive" />
         </Product>
-    </Add>
-    <Update Enabled="FALSE"/>
+    	</Add>
 </Configuration>
 ```
 
