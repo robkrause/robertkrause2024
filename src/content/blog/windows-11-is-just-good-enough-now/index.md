@@ -20,7 +20,7 @@ Thankfully there is a solution, and the European Union is responsible – by imp
 
 1. Create an Installation Stick that contains Windows11 25H2
 2. Optional: Install with local account: After setting the Region to an EU country, you can skip the login with an Microsoft Account [like so](https://x.com/witherornot1337/status/1906050664741937328)
-3. Once the installation is done and the remaining Windows Updates are finished, you can disable most unwanted applications, even Copilot, Edge and Store. A few apps are tagged as system apps and can be forcefully uninstalled but might break things and often return with an update
+3. Once the installation is done and the remaining Windows Updates are finished, you can uninstall most unwanted applications, even Copilot, Edge and Store. A few apps are tagged as system apps and can be forcefully uninstalled but might break things and often return with an update
 4. Disable Bing from Windows search because you are anyways looking for files: Settings => Privacy and Security => Web search => Off
 5. Disable MSN Trash News in the Widgets: Open Widgets => Settings => Show or hide feeds => Microsoft Start => Off. You could also hide it altogether in the taskbar settings, together with the search bar
 6. [A few other tweaks](https://www.windowscentral.com/microsoft/windows-11/my-top-21-ways-to-improve-windows-11-to-increase-gaming-performance-without-hardware-upgrade) - pick yourself
