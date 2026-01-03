@@ -23,6 +23,7 @@ I switched to [Windows 11 and it is fine](https://robertkrau.se/blog/windows-11-
 The software that I started using and enjoyed the most in 2025:
 * [Helium Browser](https://helium.computer/)
 * [Reeder for iOS](https://reederapp.com/)
+* [Zed](https://zed.dev/)
 * [umbrelOS — no-brainer home cloud OS](https://umbrel.com/)
 
 ## Games
